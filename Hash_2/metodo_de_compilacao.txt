@@ -1,0 +1,8 @@
+gcc Etapa_03.c -lm -o Etapa_03
+
+
+
+
+
+
+
