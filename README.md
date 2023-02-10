@@ -1,2 +1,5 @@
 # Estruturas-de-Dados
-Repósitorio de trabalhos da Matéria EDI e EDII da Universidade
+Repósitorio de trabalhos da Graduação em Ciência da Computação em Estrutura de Dados I e II
+
+
+
